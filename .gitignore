@@ -9,11 +9,12 @@ MultiScale
 notebooks
 Occ
 RAFT
-RANSAC-Flow
+RANSAC-Flow/model/pretrained/*.pth
 Twins
 __init__.py 
-colormap.py 
-eval.py 
+colormap.py
+demo.ipynb 
+eval.py
 homography_fitting.ipynb
 LICENSE
 README.md 
